@@ -1,4 +1,4 @@
-# map_app_task
+# edu_app_task
 
 A new Flutter project.
 
